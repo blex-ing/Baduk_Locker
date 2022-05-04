@@ -1,3 +1,6 @@
 # Baduk_Locker
 Investigación del ransomware 
-## Noticias sobre Baduk Locker
+## Indice
+- Noticas
+- Codigo fuente
+- Tutoriales
