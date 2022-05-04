@@ -1,2 +1,3 @@
 # Baduk_Locker
-investigación del ransomware 
+Investigación del ransomware 
+## Noticias sobre Baduk Locker
