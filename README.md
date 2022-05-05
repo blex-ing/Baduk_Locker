@@ -1,8 +1,8 @@
-# Baduk_Locker
+# Babuk_Locker
 Investigación del ransomware 
 ## Indice
 - Noticas
-- Codigo fuente y Miestras de Baduk
+- Codigo fuente y Miestras de Babuk
 - Tutoriales
 - Analisis de Malgare
 ## Noticias
@@ -14,9 +14,9 @@ Investigación del ransomware
  
  - Explicación de Funcionamiento de Baduk Locker:[securityboulevard.com](https://securityboulevard.com/2021/01/babuk-locker-mediocre-but-gets-the-job-done/)
 
- - Informe de BaduK Ramsomware: [chuongdong.com](https://chuongdong.com/reverse%20engineering/2021/01/03/BabukRansomware/)
+ - Informe de BabuK Ramsomware: [chuongdong.com](https://chuongdong.com/reverse%20engineering/2021/01/03/BabukRansomware/)
 
-## Codigo fuente y Miestras de Baduk
+## Codigo fuente y Miestras de Babuk
 
 -
 
