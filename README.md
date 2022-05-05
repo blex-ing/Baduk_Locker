@@ -2,9 +2,9 @@
 Investigación del ransomware 
 ## Indice
 - Noticas
-- Codigo fuente
+- Codigo fuente y Miestras de Baduk
 - Tutoriales
-
+- Analisis de Malgare
 ## Noticias
  - Ataque a Phone House: [elconfidencial](https://www.elconfidencial.com/tecnologia/2021-04-17/phone-house-ciberataque-chantaje-hackers-babuk_3038839/).
  
@@ -15,3 +15,14 @@ Investigación del ransomware
  - Explicación de Funcionamiento de Baduk Locker:[securityboulevard.com](https://securityboulevard.com/2021/01/babuk-locker-mediocre-but-gets-the-job-done/)
 
  - Informe de BaduK Ramsomware: [chuongdong.com](https://chuongdong.com/reverse%20engineering/2021/01/03/BabukRansomware/)
+
+## Codigo fuente y Miestras de Baduk
+
+-
+
+## Tutoriales
+-
+
+## Análisis de Malware
+
+- any.run: <https://any.run/>
