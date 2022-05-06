@@ -1,10 +1,10 @@
 # Babuk_Locker
 Investigación del ransomware 
 ## Indice
-- Noticas
-- Codigo fuente y Miestras de Babuk
-- Tutoriales
-- Analisis de Malgare
+* Noticas
+* Codigo fuente y Miestras de Babuk
+* Tutoriales
+* Analisis de Malgare
 ## Noticias
  - Ataque a Phone House: [elconfidencial](https://www.elconfidencial.com/tecnologia/2021-04-17/phone-house-ciberataque-chantaje-hackers-babuk_3038839/).
  
@@ -16,9 +16,9 @@ Investigación del ransomware
 
  - Informe de BabuK Ramsomware: [chuongdong.com](https://chuongdong.com/reverse%20engineering/2021/01/03/BabukRansomware/)
 
-## Codigo fuente y Miestras de Babuk
+## Codigo fuente y Muestras de Babuk
 
--
+- 
 
 ## Tutoriales
 -
