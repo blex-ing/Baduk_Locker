@@ -1,5 +1,6 @@
 # Babuk_Locker
 Investigación del ransomware 
+![babuk](./msg.jpg)
 ## Indice
 * Noticas
 * Codigo fuente y Miestras de Babuk
