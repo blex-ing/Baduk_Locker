@@ -34,6 +34,7 @@ Investigación del ransomware
 - Despliegue y Ejecución: [video2.mp4](./Despliegue%20y%20ejecuci%C3%B3n%20de%20un%20Ransomware%20en%20laboratorio%20de%20pruebas.mp4)
 - Crear ransomware, blog educativo: [tutorial-aprende-a-crear-un-ransomware](https://medium.com/@edinsonrequena/tutorial-aprende-a-crear-un-ransomware-cdb4e797c103)
 - Ransomware desde cero: [(https://backtrackacademy.com](https://backtrackacademy.com/articulo/creando-un-ransomware-desde-0-con-python)
+- Como cifra y descifra un Ransomware con Python: [https://blog.tiraquelibras.com](https://blog.tiraquelibras.com/?p=1047)
 ## Análisis de Malware 
 
 - any.run: <https://any.run/>
