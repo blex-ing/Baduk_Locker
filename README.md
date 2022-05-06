@@ -20,7 +20,9 @@ Investigación del ransomware
 
 ## Papers
 
-- ransomware como servicio (RaaS): [A_Survey_of_Ransomware_as_a_Service_RaaS_and_Methods_to_Mitigate_the_Attack](./A_Survey_of_Ransomware_as_a_Service_RaaS_and_Methods_to_Mitigate_the_Attack.pdf)
+- Ransomware como servicio (RaaS): [A_Survey_of_Ransomware_as_a_Service_RaaS_and_Methods_to_Mitigate_the_Attack.pdf](./A_Survey_of_Ransomware_as_a_Service_RaaS_and_Methods_to_Mitigate_the_Attack.pdf)
+
+- Defensa contra ransomware criptográfico: [defensa contra ransomware criptográfico.pdf](./defensa%20contra%20ransomware%20criptogr%C3%A1fico.pdf)
 
 ## Codigo fuente y Muestras de Babuk
 
@@ -28,8 +30,8 @@ Investigación del ransomware
 - Constructor Babuk : [babuk_builder.zip](./BabukBuilder.2021.zip.7z)
 
 ## Tutoriales
-- Ransomware con Python: []()
-- Despliegue y Ejecución: []()
+- Ransomware con Python: [video1.mp4](./Ransomware%20with%20Python%20-%20Tutorial.mp4)
+- Despliegue y Ejecución: [video2.mp4](./Despliegue%20y%20ejecuci%C3%B3n%20de%20un%20Ransomware%20en%20laboratorio%20de%20pruebas.mp4)
 
 ## Análisis de Malware
 
