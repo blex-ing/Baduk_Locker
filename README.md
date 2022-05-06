@@ -28,7 +28,8 @@ Investigación del ransomware
 - Constructor Babuk : [babuk_builder.zip](./BabukBuilder.2021.zip.7z)
 
 ## Tutoriales
--
+- Ransomware con Python: []()
+- Despliegue y Ejecución: []()
 
 ## Análisis de Malware
 
