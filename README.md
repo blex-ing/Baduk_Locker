@@ -19,7 +19,8 @@ Investigación del ransomware
 
 ## Codigo fuente y Muestras de Babuk
 
-- 
+- Muestra de Babuk : [babuk.zip](./babuk.zip)
+- Constructor Babuk : [babuk_builder.zip](./BabukBuilder.2021.zip.7z)
 
 ## Tutoriales
 -
