@@ -3,6 +3,7 @@ Investigación del ransomware
 ![babuk](./msg.jpg)
 ## Indice
 * Noticas
+* Papers
 * Codigo fuente y Miestras de Babuk
 * Tutoriales
 * Analisis de Malgare
@@ -16,6 +17,10 @@ Investigación del ransomware
  - Explicación de Funcionamiento de Baduk Locker:[securityboulevard.com](https://securityboulevard.com/2021/01/babuk-locker-mediocre-but-gets-the-job-done/)
 
  - Informe de BabuK Ramsomware: [chuongdong.com](https://chuongdong.com/reverse%20engineering/2021/01/03/BabukRansomware/)
+
+## Papers
+
+- ransomware como servicio (RaaS): [A_Survey_of_Ransomware_as_a_Service_RaaS_and_Methods_to_Mitigate_the_Attack](./A_Survey_of_Ransomware_as_a_Service_RaaS_and_Methods_to_Mitigate_the_Attack.pdf)
 
 ## Codigo fuente y Muestras de Babuk
 
