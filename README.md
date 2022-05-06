@@ -28,7 +28,7 @@ Investigación del ransomware
 
 - Muestra de Babuk : [babuk.zip](./babuk.zip)
 - Constructor Babuk : [babuk_builder.zip](./BabukBuilder.2021.zip.7z)
-
+- clave: "infected"
 ## Tutoriales
 - Ransomware con Python: [video1.mp4](./Ransomware%20with%20Python%20-%20Tutorial.mp4)
 - Despliegue y Ejecución: [video2.mp4](./Despliegue%20y%20ejecuci%C3%B3n%20de%20un%20Ransomware%20en%20laboratorio%20de%20pruebas.mp4)
